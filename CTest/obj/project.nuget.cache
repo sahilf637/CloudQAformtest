@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "645V4YyHUnexvpMYipD6dg2MsxsDqUgsmgK84BzIQH1sV0B/sbO6zEO34swRoM5QM4M9qJActpcIRho2UDbY5A==",
+  "success": true,
+  "projectFilePath": "/home/sahilf637/Project/CloudQAformtest/CTest/CTest.csproj",
+  "expectedPackageFiles": [
+    "/home/sahilf637/.nuget/packages/selenium.webdriver/4.31.0/selenium.webdriver.4.31.0.nupkg.sha512",
+    "/home/sahilf637/.nuget/packages/selenium.webdriver.chromedriver/135.0.7049.4200/selenium.webdriver.chromedriver.135.0.7049.4200.nupkg.sha512"
+  ],
+  "logs": []
+}
